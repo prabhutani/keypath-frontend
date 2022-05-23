@@ -1,4 +1,5 @@
 {
+  "hostname" : "https://prabhutani.github.io/keypath-frontend",
   "name": "survey",
   "version": "0.1.0",
   "private": true,
